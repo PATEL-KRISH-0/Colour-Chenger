@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Carme&display=swap');
+
+:root {
+    --bodycolour: rgb(205, 205, 205);
+    --textcolour: rgb(20, 20, 20);
+    --btncolour: rgb(119, 82, 255);
+    --white:white;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    transition: all 0.3s;
+    box-sizing: border-box;
+    font-family: 'Carme', sans-serif;    
+}
+
+html {
+    font-size: 62.5%;
+}
+
+.text {
+    font-size: 5rem;
+    font-weight: 700;
+}
+
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-Contenar {
+    display: flex;
+    flex-flow: column;
+    margin-top: 5rem;
+}
+
+.btn-Contenar .btn {
+    margin: 1rem 1rem;
+    padding: 2rem 1.7rem;
+    font-weight: 900;
+    background: var(--btncolour);
+    cursor: pointer;
+    border: 3px solid black;
+}
+.btn:hover{
+    background-color: aquamarine;
+    transform: scale(1.2); 
+}

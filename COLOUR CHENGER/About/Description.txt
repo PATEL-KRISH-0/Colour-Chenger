@@ -1,0 +1,6 @@
+Hellow!
+
+	This code is a valuable resource for beginners who want to practice their JavaScript, CSS, and HTML skills. It provides a practical example of a color changer web application, demonstrating how to use event listeners to dynamically change HTML element styles based on user input. The code is simple, easy to follow, and provides a solid foundation for beginners to understand how to manipulate CSS styles and properties with JavaScript. By using this code, beginners can gain hands-on experience with JavaScript and learn how to create a functional web application from scratch.
+
+
+thank you😊.
